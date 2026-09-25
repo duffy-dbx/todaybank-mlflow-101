@@ -2,7 +2,7 @@
 # MAGIC %md
 # MAGIC # TodayBank Session 6 - Notebook 01: Generate & Load Loan Data
 # MAGIC
-# MAGIC **Use case:** Consumer Loan / Credit Default Risk for TodayBank (Axos)
+# MAGIC **Use case:** Consumer Loan / Credit Default Risk for TodayBank
 # MAGIC
 # MAGIC This notebook generates synthetic consumer loan data in-notebook (no external files needed)
 # MAGIC and writes two Unity Catalog tables:

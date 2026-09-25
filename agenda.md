@@ -1,6 +1,6 @@
-# TodayBank (Axos) Session 6: MLflow & MLOps 101 - Demo Agenda (50 min)
+# TodayBank Session 6: MLflow & MLOps 101 - Demo Agenda (50 min)
 
-**Audience:** Axos / TodayBank stakeholders with no prior ML experience. This is an
+**Audience:** TodayBank stakeholders with no prior ML experience. This is an
 introduction to Databricks ML capabilities.
 **Duration:** 50 minutes (slides + a ~25-minute live showcase on Databricks).
 **Objective:** Demystify ML. Show that ML on Databricks is a governed, repeatable
@@ -19,10 +19,10 @@ that make a prediction trustworthy, explainable, and defensible.
 | 5-10 | 2. The ML lifecycle in plain English | Slide (Crawl/Walk/Run) |
 | 10-15 | 3. Where this builds on Sessions 1-5 | Slide |
 | 15-42 | 4. Live showcase - the loan default model | Live on Databricks (~25 min) |
-| 42-50 | 5. Where Axos gets value + Q&A | Discussion |
+| 42-50 | 5. Where a bank gets value + Q&A | Discussion |
 
 ## 1. Why this matters for a digital bank (5 min)
-- Anchor on decisions Axos makes every day: who to lend to, at what rate. The core
+- Anchor on decisions a bank makes every day: who to lend to, at what rate. The core
   question: "How do we make a prediction we can trust, explain, and defend to an
   examiner?"
 - Plain-English framing: "ML just learns patterns from your own history to predict the
@@ -56,11 +56,11 @@ that make a prediction trustworthy, explainable, and defensible.
   show the inference/monitoring concept for drift. Message: from experiment to a
   production credit-decision API, governed end to end.
 
-## 5. Where Axos gets value + next steps (8 min)
+## 5. Where a bank gets value + next steps (8 min)
 - A trustworthy, auditable model-risk story from day one; one governed model registry;
   real-time decisions behind a managed endpoint; the same lifecycle pattern reused for
   every future model (fraud, churn, marketing).
-- Proposed follow-ups: a scoped hands-on POC on Axos data; a model-inventory /
+- Proposed follow-ups: a scoped hands-on POC on a bank's data; a model-inventory /
   governance walkthrough.
 
 ## Prep checklist (internal - not for the customer)

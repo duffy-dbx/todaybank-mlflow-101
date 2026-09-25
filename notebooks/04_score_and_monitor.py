@@ -10,7 +10,7 @@
 # MAGIC 3. Writes scored results to `todaybank_mlflow101.lending.loan_applications_scored`
 # MAGIC 4. Prints an end-to-end lineage summary (source > model > endpoint > scored output)
 # MAGIC
-# MAGIC **Key concept for Axos:** Batch scoring uses the same versioned model as the
+# MAGIC **Key concept:** Batch scoring uses the same versioned model as the
 # MAGIC live endpoint. Both outputs trace back to the exact same run ID, experiment,
 # MAGIC and training data - full auditability for model risk review.
 
@@ -126,7 +126,7 @@ spark.sql(f"""
 # MAGIC %md
 # MAGIC ## Step 5 - End-to-end lineage summary
 # MAGIC
-# MAGIC This is the governance story for Axos model risk review.
+# MAGIC This is the governance story for model risk review.
 # MAGIC Every scored application traces back through an unbroken chain:
 
 # COMMAND ----------

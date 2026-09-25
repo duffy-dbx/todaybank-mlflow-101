@@ -10,7 +10,7 @@
 # MAGIC 2. Waits until the endpoint is READY
 # MAGIC 3. Tests a STRONG applicant (low default risk) vs a RISKY applicant (high risk)
 # MAGIC
-# MAGIC **Key concept for Axos:** A serving endpoint is a managed, versioned REST API.
+# MAGIC **Key concept:** A serving endpoint is a managed, versioned REST API.
 # MAGIC The model version behind it is controlled by the `@champion` alias in UC - so
 # MAGIC promoting a new model version is a single alias update, not an endpoint redeploy.
 

@@ -1,11 +1,11 @@
-# DEMO.md - TodayBank (Axos) Session 6: MLflow & MLOps 101
+# DEMO.md - TodayBank Session 6: MLflow & MLOps 101
 
 Internal spec. Source of truth for every asset in this directory. Formatting rules:
 no em-dashes (use en-dashes " - "); ASCII `>` and `<` for arrows.
 
 ## Series context
 
-TodayBank is the fictional regulated all-digital bank used across the Axos Bank
+TodayBank is the fictional regulated all-digital bank used across the TodayBank 
 enablement series. Session 6 follows:
 - Session 1: Lakehouse + Medallion Architecture
 - Session 2: Unity Catalog + Governance
@@ -16,7 +16,7 @@ enablement series. Session 6 follows:
 
 ## Audience & objective
 
-- **Audience:** Axos / TodayBank stakeholders with NO prior ML experience. This is
+- **Audience:** TodayBank stakeholders with NO prior ML experience. This is
   an introduction to Databricks ML capabilities, not an advanced MLOps deep-dive.
 - **Objective:** Demystify ML. Show that ML on Databricks is a governed, repeatable
   lifecycle - not a black box - and that MLflow + Unity Catalog are the system of
@@ -27,7 +27,7 @@ enablement series. Session 6 follows:
 
 ## Use case
 
-**Loan / credit default risk** - most relevant to Axos as a lending-centric digital
+**Loan / credit default risk** - most relevant as a lending-centric digital
 bank, and the easiest ML concept to explain to a zero-ML audience. We predict the
 probability that a consumer loan applicant will default (PD), then score a brand-new
 application live on stage.
@@ -140,7 +140,7 @@ arc mirroring Session 5:
 6. 01 - CRAWL - "Train once, track everything".
 7. 02 - WALK - "One governed model registry".
 8. 03 - RUN - "Serve it, score it, watch it".
-9. Where Axos Bank Gets Value - business outcomes (below).
+9. Where a Bank Gets Value - business outcomes (below).
 10. Q & A.
 
 Value bullets (slide 9): a trustworthy, auditable model-risk story from day one;

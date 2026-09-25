@@ -1,4 +1,4 @@
-# Deck Outline - Axos Bank Session 6: Machine Learning & MLOps with MLflow
+# Deck Outline - Session 6: Machine Learning & MLOps with MLflow
 
 **Presentation URL:** https://docs.google.com/presentation/d/13-f61bpbcV-SIzCNgq-QD5pVn0tsgJLzpKnLnwOpjgc/edit
 
@@ -148,7 +148,7 @@ Session 6: Databricks + Machine Learning & MLOps
 
 **Layout:** Content with subtitle callout
 
-**Title:** Where Axos Bank Gets Value (30pt)
+**Title:** Where a Bank  Gets Value (30pt)
 
 **Callout (bold italic):** Production-grade means governed, auditable, and yours.
 

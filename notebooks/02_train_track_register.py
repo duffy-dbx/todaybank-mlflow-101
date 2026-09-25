@@ -12,7 +12,7 @@
 # MAGIC 5. Registers the best model to UC Model Registry as
 # MAGIC    `todaybank_mlflow101.models.loan_default_risk` with alias `@champion`
 # MAGIC
-# MAGIC **Key concept for Axos:** Every training run is automatically logged - hyperparameters,
+# MAGIC **Key concept:** Every training run is automatically logged - hyperparameters,
 # MAGIC metrics, model artifacts, and data lineage. Examiners can reproduce any historical run.
 
 # COMMAND ----------
@@ -295,7 +295,7 @@ print(f"Verified aliases on model: {_aliases}")
 client.update_registered_model(
     name=MODEL_UC,
     description=(
-        "TodayBank (Axos) consumer loan default risk model. "
+        "TodayBank consumer loan default risk model. "
         "Predicts probability of default (PD) for personal loan applicants. "
         "Session 6 MLflow 101 demo - for demonstration purposes only."
     ),

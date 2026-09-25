@@ -1,6 +1,6 @@
 # TodayBank Session 6: MLflow & MLOps 101
 
-**Series:** TodayBank (Axos) Enablement - Session 6 of 6
+**Series:** TodayBank Enablement - Session 6 of 6
 **Use case:** Consumer Loan / Credit Default Risk
 **Audience:** Zero-ML business stakeholders
 

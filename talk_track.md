@@ -1,4 +1,4 @@
-# TodayBank (Axos) Session 6 - MLflow & MLOps 101: Talk Track
+# TodayBank Session 6 - MLflow & MLOps 101: Talk Track
 
 CLICK / SHOW / SAY cadence for the ~25-minute live showcase. Audience has no ML
 experience - define every term in plain English before showing it. Formatting: no
@@ -27,7 +27,7 @@ em-dashes (en-dashes / hyphens); ASCII `>` and `<` for arrows.
 
 ## 00 - Demo (2 min)  [deck: "00 - Demo" divider]
 
-**SAY:** "We are going to follow one everyday Axos decision - should we approve a loan,
+**SAY:** "We are going to follow one everyday bank decision - should we approve a loan,
 and at what risk - all the way through the machine-learning lifecycle. ML just means
 learning patterns from your own history to predict the next outcome. MLOps is how you do
 that reliably and safely, the same way you run any production system. It is mostly live,
@@ -106,7 +106,7 @@ when a better version is ready. That closes the loop."
 
 ---
 
-## Close (1 min)  [deck: "Where Axos Bank Gets Value"]
+## Close (1 min)  [deck: "Where a bank Gets Value"]
 
 **SAY:** "That is the whole lifecycle on one governed platform: train and track, register
 and govern, serve and monitor. Every experiment reproducible, one model registry in Unity
